@@ -18,7 +18,8 @@ Enhancing clinical text retrieval in healthcare, this project leverages advanced
 
 
 ### System Design:
-![image](https://github.com/OletiKavya/RAGImplementation_ClinicalData_TrulensEvaluation/assets/121835613/dc29970f-d2b8-4a7f-8612-aeadefe11a66)
+
+![image](https://github.com/OletiKavya/NLP-RAG_Implementation_clinicalData_TrulensEvaluation/assets/121835613/3e67bef4-12a3-45b2-abc6-9a74cb01e809)
 
 
 ### Methodology:
@@ -54,7 +55,8 @@ Enhancing clinical text retrieval in healthcare, this project leverages advanced
 
 ### Performance Evaluations: 
 Evaluated RAG implementation with Trulens . Observed the results for 20 test cases and found that this implementation has high answer relevance and high context relevance.
-![image](https://github.com/OletiKavya/RAGImplementation_ClinicalData_TrulensEvaluation/assets/121835613/204f44d9-feb8-4660-a336-8a4f96ff1b2d)
+![image](https://github.com/OletiKavya/NLP-RAG_Implementation_clinicalData_TrulensEvaluation/assets/121835613/14869631-5119-4b09-8602-58ba777696f8)
+
 
 
 ### Tools Used
